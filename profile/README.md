@@ -17,7 +17,7 @@ Engineering scalable backend systems, distributed architectures and high-perform
 - payments-service
 
 ## ⚙️ Stack
-Python, .NET, C-Sharp, Go, Java, AWS, Docker, Kubernetes
+Python, .NET, C-Sharp ( `C#` ), Go, Java, AWS, Docker, Kubernetes
 
 ## 🤝 Collaboration
 - Code review required
